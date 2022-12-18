@@ -21,4 +21,6 @@
 
 <p><a href="www.linkedin.com/in/pratham-srivastava-665679196" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a>
 </p>
+<h3><p > <img src="https://komarev.com/ghpvc/?username=prathamisonline&label=Profile%20views&color=6805D3&style=flat" alt="profileviews" /> </p></h3>
+   
 
